@@ -1,2 +1,4 @@
-README.md
+# Terra Explorer
+
+by Isaac Kim
 
